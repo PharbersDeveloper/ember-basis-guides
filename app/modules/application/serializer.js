@@ -1,4 +1,4 @@
-import PharbersSerializer from 'pharbers-emberbasis-library/serializers/phserializer';
+import PharbersSerializer from "pharbers-emberbasis-library/serializers/phserializer";
 
 
 /**
